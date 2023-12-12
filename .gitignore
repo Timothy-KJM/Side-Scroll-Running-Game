@@ -1,0 +1,8 @@
+/Classes
+/cocos2d
+/proj.android
+/proj.ios_mac
+/proj.linux
+CMakeLists.txt
+/proj.win32/Debug.win32
+/proj.win32/.vs
